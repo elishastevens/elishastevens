@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elishastevens
-- 👀 I’m interested in automation, web development.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in cybersecurity and the cloud
+- 🌱 I’m currently learning python
 - 📫 How to reach me @elisha__stevens on X
 
 <!---
