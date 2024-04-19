@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elisha! <a href="https://www.linkedin.com/in/joshmadakor/">IT Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Elisha! <a href="https://www.linkedin.com/in/elisha-stevens/">IT Professional</a> breaking into cybersecurity.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
